@@ -2,6 +2,8 @@
 
 ![plot of heat equation solution and physics informed neural network approximation](./ref/heat.png)
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=matlab-deep-learning/SciML-and-Physics-Informed-Machine-Learning-Examples)
+
 This repository collates a number of examples demonstrating Scientific Machine Learning (SciML) and Physics Informed Machine Learning.
 
 Scientific Machine Learning is the application of Artificial Intelligence (AI) methods to accelerate scientific and engineering discoveries. SciML methods can incorporate domain specific knowledge, such as mathematical models of a physical system, with data-driven methods, such as training neural networks. Some characteristic SciML methods include:
