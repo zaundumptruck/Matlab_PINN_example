@@ -10,7 +10,7 @@ Hamiltonian Neural Network[1] enables you to use Neural Networks under the law o
 
 Hamiltonian Neural Network Loss is expressed with the following equation.
 
-$$ L_{HNN} = \left| \frac{\partial H_\theta }{\partial p} - \frac{\partial q}{\partial t} \right|_{L^2} + \left| \frac{\partial H_\theta}{\partial q} + \frac{\partial p}{\partial t} \right|_{L^2} $$
+$$L_{HNN} = \left\| \frac{\partial H_\theta }{\partial p} - \frac{\partial q}{\partial t} \right\| + \left\| \frac{\partial H_\theta}{\partial q} + \frac{\partial p}{\partial t} \right\|$$
 
 
 ## Requirements
